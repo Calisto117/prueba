@@ -1,2 +1,2 @@
 # prueba
-esto es mi primer commit
+esto es un commit
